@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-blue-600 {
+    --tw-bg-opacity: 1;
+    background-color: #102553e0;
+}
+.text-yellow-500 {
+    --tw-text-opacity: 1;
+    color: rgb(45 63 103);
+}
+.text-lg {
+    font-size: 2.125rem;
+    line-height: 1.75rem;
+}
